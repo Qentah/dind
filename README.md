@@ -45,7 +45,7 @@ Below are images of Windows 11 running on GitHub Codespaces:
 
 Click on the button below:
 
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/ItzLevvie/dind?machine=standardLinux32gb)
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/Qentah/dind?machine=standardLinux32gb)
 
 > [!NOTE]
 > See [Commands](#commands) for a full list of available commands.
