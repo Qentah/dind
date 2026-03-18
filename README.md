@@ -338,6 +338,10 @@ Create one registry entry at `HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Servic
 
 Create one registry entry at `HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\OOBE`:
 - `BypassNRO` with a value of `1`
+___
+OR
+
+Ctrl + Shift + F3 : at the first OOBE screen press Ctrl+Shift+F3. Windows will reboot into Audit Mode and drop you to the Administrator desktop. Create the local user there. Reboot to continue OOBE.
 
 > [!TIP]
 > This allows you to create a local account on Windows 11.
